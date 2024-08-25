@@ -1,0 +1,4 @@
+Software Project Management (SPM) is a proper way of planning and leading software projects. It is a part of project management in which software projects are planned, implemented, monitored, and controlled.
+
+# Need for Software Project Management
+Software is a non-physical product. Most software products are made to fit clients’ requirements. An organization must deliver quality products, keep the cost within the client’s budget constraint, and deliver the project on schedule. Hence, software project management is necessary to incorporate user requirements along with budget and time constraints.
